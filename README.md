@@ -1,1 +1,1 @@
-# f24-catalyst-challenge-attempt
+# F2024 Catalyst Learning Take-Home Challenge - Jam Lian
